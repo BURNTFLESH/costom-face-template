@@ -5,4 +5,4 @@
 
 # MAKE SURE TO DO 512x512 PX
 
-makesure to use a photo editor like gimp(FREE) or photoshop(paid) to make the costom face
+# make sure to use a photo editor like gimp(FREE) or photoshop(paid) to make the costom face
